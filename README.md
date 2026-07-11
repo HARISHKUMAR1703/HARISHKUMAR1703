@@ -27,7 +27,8 @@ Currently, I'm focused on **Data Structures & Algorithms**, web development, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARISHKUMAR1703&show_icons=true&theme=github_dark&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HARISHKUMAR1703&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISHKUMAR1703&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -35,7 +36,7 @@ Currently, I'm focused on **Data Structures & Algorithms**, web development, and
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HARISHKUMAR1703&theme=github-dark-blue" />
+  <img src="https://streak-stats.demolab.com?user=HARISHKUMAR1703&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
