@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi there! 👋 I'm Harish Kumar
 
-<!--
-**HARISHKUMAR1703/HARISHKUMAR1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science Engineering student** from India who enjoys learning by building projects and solving programming problems. I'm always looking to improve my coding skills and explore new technologies.
 
-Here are some ideas to get you started:
+Currently, I'm focused on **Data Structures & Algorithms**, web development, and participating in hackathons to gain practical experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.E. Computer Science Engineering Student
+- 💻 Interested in Software Development & Problem Solving
+- 🌱 Currently learning Data Structures & Algorithms
+- 🏆 Regularly solving problems on LeetCode
+- 🤝 Always open to learning and collaborating on interesting projects
+
+---
+
+## 💻 Languages & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HARISHKUMAR1703&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISHKUMAR1703&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=HARISHKUMAR1703&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISHKUMAR1703&theme=tokyo-night"/>
+</p>
+
+---
+
+## 💻 LeetCode
+
+<p align="center">
+<a href="https://leetcode.com/u/HARISHKUMAR1703/">
+<img src="https://leetcard.jacoblin.cool/HARISHKUMAR1703?theme=dark&font=Nunito&ext=heatmap"/>
+</a>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 📧 **harishnagulai17@gmail.com**
+- 💻 GitHub: https://github.com/HARISHKUMAR1703
+- 🧩 LeetCode: https://leetcode.com/u/HARISHKUMAR1703/
+
+---
+
+### Thanks for stopping by!
+
+I'm still learning, building, and improving every day. Feel free to explore my repositories, and if you have suggestions or would like to collaborate, I'd be happy to connect!
