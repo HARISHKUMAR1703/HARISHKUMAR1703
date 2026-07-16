@@ -8,7 +8,7 @@ Currently, I'm focused on **Data Structures & Algorithms**, web development, and
 
 ## 🚀 About Me
 
-- 🎓 B.E. Computer Science Engineering Student
+- 🎓 B.Tech Computer Science Engineering Student
 - 💻 Interested in Software Development & Problem Solving
 - 🌱 Currently learning Data Structures & Algorithms
 - 🏆 Regularly solving problems on LeetCode
@@ -54,7 +54,7 @@ Currently, I'm focused on **Data Structures & Algorithms**, web development, and
 
 ## 📫 Connect with Me
 
-- 📧 **harishnagulai17@gmail.com**
+- 📧 Email: **harishnagulai17@gmail.com**
 - 💻 GitHub: https://github.com/HARISHKUMAR1703
 - 🧩 LeetCode: https://leetcode.com/u/HARISHKUMAR1703/
 
