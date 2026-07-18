@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Harish Kumar
 
-I'm a **Computer Science Engineering student** from India who enjoys learning by building projects and solving programming problems. I'm always looking to improve my coding skills and explore new technologies.
+I'm a **Computer Science Engineering student** who enjoys learning by building projects and solving programming problems. I'm always looking to improve my coding skills and explore new technologies.
 
 Currently, I'm focused on **Data Structures & Algorithms**, web development, and participating in hackathons to gain practical experience.
 
