@@ -24,20 +24,18 @@ Currently, I'm focused on **Data Structures & Algorithms**, web development, and
 
 ---
 
-
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HARISHKUMAR1703&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=HARISHKUMAR1703&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISHKUMAR1703&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISHKUMAR1703&theme=tokyo-night" />
 </p>
 
 ---
