@@ -32,14 +32,15 @@ Currently, I'm focused on **Data Structures & Algorithms**, web development, and
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISHKUMAR1703&theme=tokyo-night" />
+  <a href="https://github.com/HARISHKUMAR1703">
+    <img src="https://github-readme-stats.vercel.app/api?username=HARISHKUMAR1703&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
-
 ## 💻 LeetCode
 
 <p align="center">
